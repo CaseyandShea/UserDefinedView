@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StepCountView">
+        <attr name="background_round_color" format="color" />
+        <attr name="progress_bar_color" format="color" />
+        <attr name="background_width" format="dimension" />
+        <attr name="progress_width" format="dimension" />
+        <attr name="center_text_size" format="dimension" />
+        <attr name="rank_text_size" format="dimension" />
+        <attr name="current_progress" format="integer" />
+        <attr name="rate" format="integer" />
+        <attr name="rank_center_spc" format="dimension" />
+
+    </declare-styleable>
+
+</resources>
